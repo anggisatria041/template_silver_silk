@@ -340,11 +340,6 @@
 }
 
 
-.testimonial-carousel .owl-nav .owl-prev:hover,
-.testimonial-carousel .owl-nav .owl-next:hover {
-  background: var(--dark);
-}
-
 /*** Footer ***/
 .footer .btn.btn-social {
   margin-right: 5px;
