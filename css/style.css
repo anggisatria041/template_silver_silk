@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #00B98E;
+    --primary: #b02a37;
     --secondary: #FF6922;
     --light: #EFFDF5;
     --dark: #0E2E50;
@@ -135,7 +135,7 @@
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: var(--dark);
+    color: #4f1319;
     font-weight: 500;
 }
 
@@ -186,7 +186,6 @@
     align-items: center;
     justify-content: center;
     color: #FFFFFF;
-    background: var(--primary);
     border-radius: 40px;
     font-size: 20px;
     transition: .5s;
