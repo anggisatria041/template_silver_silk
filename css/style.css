@@ -5,6 +5,12 @@
   --light: #effdf5;
   --dark: #4f1319;
 }
+.checked {
+  color: rgb(255, 226, 34);
+}
+.legal {
+  height: 60px;
+}
 
 .back-to-top {
   position: fixed;
