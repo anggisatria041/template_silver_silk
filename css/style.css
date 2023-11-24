@@ -11,6 +11,9 @@
 .legal {
   height: 60px;
 }
+.bg1 {
+  background-color: #f7eaeb;
+}
 
 .back-to-top {
   position: fixed;
